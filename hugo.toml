@@ -1,13 +1,14 @@
 title = "Wasabi's Site"
 baseURL = "http://wasabytes.github.io"
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "zh-CN"
+defaultContentLanguage = "zh-cn"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "FixIt"
-
+#github
+publishDir = "docs"
 [params]
   # FixIt theme version
     version = "0.2.X"
