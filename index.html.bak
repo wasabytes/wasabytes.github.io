@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <html>
 <head>
 <meta charset="utf-8">
@@ -7,8 +8,11 @@
 <body>
     <h1>冯语全录导航</h1>
     <p>冯语有:«冯语»，«九二大事记»，«冯鸟集»这三本典籍</p>
+    <br>
     <a href="https://wasabytes.xyz/Fly.html">«冯鸟集»</a>
+    <br>
     <a href="https://wasabytes.xyz/say.html">«冯语»</a>
+    <br>
     <a href="https://wasabytes.xyz/92.html">«九二大事记»</a>
 </body>
 </html>
